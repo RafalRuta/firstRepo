@@ -1,1 +1,2 @@
 Dodanie nowego pliku do zdalnego repo
+Modyfikacja
